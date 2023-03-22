@@ -7,3 +7,5 @@ vivo en mendoza, lujan de cuyo
 tengo 18 años 
 
 me gusta la programacion. 
+
+estoy usando git.
