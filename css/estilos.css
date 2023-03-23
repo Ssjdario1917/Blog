@@ -1,4 +1,21 @@
+body{
+    background-color: black;
+}
+
 .centrado{
     color: blueviolet;
     text-align: center;
+    font-size: 35px;
+    
+}
+
+.sub{
+    color: aqua;
+    font-size: 30px;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    
 }
