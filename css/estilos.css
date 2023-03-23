@@ -12,6 +12,7 @@ body{
 .sub{
     color: aqua;
     font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .container{
