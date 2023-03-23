@@ -17,9 +17,15 @@ body{
 .container{
     width: 70%;
     margin: auto;
+    padding: 20px;
     
 }
 
 #cabecera{
     color: #fff;
+    font-size: 35px;
+    background-color: #2631ff;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
 }
